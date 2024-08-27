@@ -1,0 +1,3 @@
+C:\Users\barte\OneDrive\Pulpit\Visual studio projects\Serial_Port\Serial_Port\Serial_Port\x64\Debug\Serial_Port.vcxproj.AssemblyReference.cache
+C:\Users\barte\OneDrive\Pulpit\Visual studio projects\Serial_Port\Serial_Port\Serial_Port\x64\Debug\Serial_Port.Form1.resources
+C:\Users\barte\OneDrive\Pulpit\Visual studio projects\Serial_Port\Serial_Port\Serial_Port\x64\Debug\Serial_Port.vcxproj.GenerateResource.cache
